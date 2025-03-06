@@ -1,5 +1,5 @@
 
-# Alacritty configuration (alacritty.toml)
+[general]
 import = ["./dracula.toml"]
 
 # Font configuration
@@ -41,13 +41,10 @@ y = 0
 # columns = 0 # 0 sets default
 # lines = 0   # 0 sets default
 
+decorations = "None"
 # Window padding (changes require restart)
-[window.padding]
-x = 10
-y = 10
+padding= { x = 10, y = 10}
 
-[window]
-Decorations = false 
 # Decorations
 
 # Allow dead keys to compose special characters.
@@ -73,3 +70,4 @@ style = "Beam" # or "Block", "Underline"
 [terminal.shell]
 program = "/bin/zsh"
 args = ["--login"]
+
