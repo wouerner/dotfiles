@@ -59,19 +59,19 @@ background = "#2e3440"
 
 # Font configuration
 [font]
-normal.family = "monospace" # or "Hack", "JetBrains Mono", "Fira Code", etc.
+normal.family = "FiraCode Nerd Font" # or "Hack", "JetBrains Mono", "Fira Code", etc.
 normal.style = "Regular"
 
 [font.bold]
-family = "monospace"
+family = "FiraCode Nerd Font"
 style = "Bold"
 
 [font.italic]
-family = "monospace"
+family = "FiraCode Nerd Font"
 style = "Italic"
 
 [font.bold_italic]
-family = "monospace"
+family = "FiraCode Nerd Font"
 style = "Bold Italic"
 
 # size = 11.0
