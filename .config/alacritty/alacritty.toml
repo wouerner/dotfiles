@@ -120,10 +120,9 @@ multiplier = 3
 # Cursor style
 style = "Beam" # or "Block", "Underline"
 
-
-
 [terminal]
 
 # Shell
 [terminal.shell]
 program = "/bin/zsh"
+args = ["--login"]
