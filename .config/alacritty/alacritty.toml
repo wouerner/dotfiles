@@ -1,61 +1,6 @@
 
 # Alacritty configuration (alacritty.toml)
-
-# Colors (Nord)
-[colors]
-# Default colors
-primary.background = "#2e3440"
-primary.foreground = "#d8dee9"
-
-# Normal colors
-[colors.normal]
-black = "#3b4252"
-red = "#bf616a"
-green = "#a3be8c"
-yellow = "#ebcb8b"
-blue = "#81a1c1"
-magenta = "#b48ead"
-cyan = "#88c0d0"
-white = "#e5e9f0"
-
-# Bright colors
-[colors.bright]
-black = "#4c566a"
-red = "#bf616a"
-green = "#a3be8c"
-yellow = "#ebcb8b"
-blue = "#81a1c1"
-magenta = "#b48ead"
-cyan = "#8fbcbb"
-white = "#eceff4"
-
-# Cursor colors
-[colors.cursor]
-text = "#2e3440"
-cursor = "#d8dee9"
-
-# Selection colors
-[colors.selection]
-text = "#2e3440"
-background = "#a0a7b4"
-
-# Search colors
-[colors.search.matches]
-foreground = "#2e3440"
-background = "#88c0d0"
-
-[colors.search.focused_match]
-foreground = "#2e3440"
-background = "#bf616a"
-
-# Hints colors
-[colors.hints.start]
-foreground = "#2e3440"
-background = "#ebcb8b"
-
-[colors.hints.end]
-foreground = "#ebcb8b"
-background = "#2e3440"
+import = ["./dracula.toml"]
 
 # Font configuration
 [font]
