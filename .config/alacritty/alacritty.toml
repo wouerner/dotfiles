@@ -46,6 +46,8 @@ y = 0
 x = 10
 y = 10
 
+[window]
+Decorations = false 
 # Decorations
 
 # Allow dead keys to compose special characters.
