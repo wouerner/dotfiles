@@ -17,6 +17,7 @@ Fd
 Alacritty
 Zsh 
   * oh my zsh - framework
+  * Tmux
 
 
 ##  Editor
