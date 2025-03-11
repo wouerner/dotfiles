@@ -1,24 +1,24 @@
 # dotfiles
 
-pre:
-* alacritty
+## SO
+* ubuntu/kubuntu tanto 22 e 24
+
+## tools:
 * git
 * curl
-* zsh
 * oh-my-zsh
+* Zk 
+* Rg
+* Fd  
 
-  todo
-  
-Font firacode
-Zk 
-Rg
-Fd  
+## Fontes  
+NerdFont firacode
+
 ## Shell
 Alacritty
 Zsh 
   * oh my zsh - framework
   * Tmux
-
 
 ##  Editor
 **nvim**  
