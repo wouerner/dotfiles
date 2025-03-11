@@ -12,4 +12,14 @@ pre:
 Font firacode
 Zk 
 Rg
-Fd
+Fd  
+## Shell
+Alacritty
+Zsh 
+  * oh my zsh - framework
+
+
+##  Editor
+**nvim**  
+LazyVim - framework  
+Avanti - plugin   
