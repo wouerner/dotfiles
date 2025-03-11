@@ -15,10 +15,10 @@
 NerdFont firacode
 
 ## Shell
-Alacritty
-Zsh 
-  * oh my zsh - framework
-  * Tmux
+* Alacritty
+* Zsh 
+* Oh my zsh - framework
+* Tmux
 
 ##  Editor
 **nvim**  
